@@ -1,0 +1,9 @@
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag11_02\Ex1_Pag11_02\bin\Debug\Ex1_Pag11_02.exe.config
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag11_02\Ex1_Pag11_02\bin\Debug\Ex1_Pag11_02.exe
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag11_02\Ex1_Pag11_02\bin\Debug\Ex1_Pag11_02.pdb
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag11_02\Ex1_Pag11_02\obj\Debug\Ex1_Pag11_02.Form1.resources
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag11_02\Ex1_Pag11_02\obj\Debug\Ex1_Pag11_02.Properties.Resources.resources
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag11_02\Ex1_Pag11_02\obj\Debug\Ex1_Pag11_02.csproj.GenerateResource.cache
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag11_02\Ex1_Pag11_02\obj\Debug\Ex1_Pag11_02.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag11_02\Ex1_Pag11_02\obj\Debug\Ex1_Pag11_02.exe
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag11_02\Ex1_Pag11_02\obj\Debug\Ex1_Pag11_02.pdb
