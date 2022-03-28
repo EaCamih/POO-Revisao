@@ -19,12 +19,20 @@ namespace Ex1_Pag11_03
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            int anos = Convert.ToInt32(txtAnos.Text);
-            int meses = Convert.ToInt32(txtMeses.Text);
-            int dias = Convert.ToInt32(txtDias.Text);
 
-            int calc = (anos * 365) + (meses * 30) + dias;
-            MessageBox.Show("A idade da pessoa em dias é de: " + calc);
+            if(string.IsNullOrEmpty(txtAnos.Text) || string.IsNullOrEmpty(txtMeses.Text) || string.IsNullOrEmpty(txtDias.Text))
+            {
+                MessageBox.Show("TextBox Vazio.");
+            }
+            else
+            {
+                int anos = Convert.ToInt32(txtAnos.Text);
+                int meses = Convert.ToInt32(txtMeses.Text);
+                int dias = Convert.ToInt32(txtDias.Text);
+
+                int calc = (anos * 365) + (meses * 30) + dias;
+                MessageBox.Show("A idade da pessoa em dias é de: " + calc);
+            }
         }
     }
 }

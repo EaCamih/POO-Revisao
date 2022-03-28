@@ -24,12 +24,20 @@ namespace Ex1_Pag11_02
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            double price = Convert.ToDouble(txtPrice.Text);
-            int quantity = Convert.ToInt32(txtQuantity.Text);
-            double dollarPrice = 4.79;
 
-            double calc = (price * quantity) * dollarPrice;
-            MessageBox.Show("O preço a ser pago em Reais é de: " + calc);
+            if(string.IsNullOrEmpty(txtPrice.Text) || string.IsNullOrEmpty(txtQuantity.text))
+            {
+                MessageBox.Show("TextBox Vazio.");
+            }
+            else
+            {
+                double price = Convert.ToDouble(txtPrice.Text);
+                int quantity = Convert.ToInt32(txtQuantity.Text);
+                double dollarPrice = 4.79;
+
+                double calc = (price * quantity) * dollarPrice;
+                MessageBox.Show("O preço a ser pago em Reais é de: " + calc);
+            }
         }
     }
 }

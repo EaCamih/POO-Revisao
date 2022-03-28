@@ -24,12 +24,19 @@ namespace Ex1_Pag11_01
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            int horas = Convert.ToInt32(txtHoras.Text);
-            int minutos = Convert.ToInt32(txtMinutos.Text);
-            int segundos = Convert.ToInt32(txtSegundos.Text);
+            if (string.IsNullOrEmpty(txtHoras.Text) || string.IsNullOrEmpty(txtMinutos.Text) || string.IsNullOrEmpty(txtSegundos.Text))
+            {
+                MessageBox.Show("TextBox Vazio.");
+            }
+            else
+            {
+                int horas = Convert.ToInt32(txtHoras.Text);
+                int minutos = Convert.ToInt32(txtMinutos.Text);
+                int segundos = Convert.ToInt32(txtSegundos.Text);
 
-            int calc = (horas * 3600) + (minutos * 60) + segundos;
-            MessageBox.Show("O tempo gasto em segundos é de: " + calc);
+                int calc = (horas * 3600) + (minutos * 60) + segundos;
+                MessageBox.Show("O tempo gasto em segundos é de: " + calc);
+            }
         }
     }
 }
