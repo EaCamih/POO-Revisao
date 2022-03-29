@@ -1,0 +1,10 @@
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\bin\Debug\Ex1_Pag15_07.exe.config
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\bin\Debug\Ex1_Pag15_07.exe
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\bin\Debug\Ex1_Pag15_07.pdb
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\obj\Debug\Ex1_Pag15_07.csproj.AssemblyReference.cache
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\obj\Debug\Ex1_Pag15_07.Form1.resources
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\obj\Debug\Ex1_Pag15_07.Properties.Resources.resources
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\obj\Debug\Ex1_Pag15_07.csproj.GenerateResource.cache
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\obj\Debug\Ex1_Pag15_07.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\obj\Debug\Ex1_Pag15_07.exe
+C:\Users\marce\Documents\GitHub\POO-Revisao\Ex1_Pag15_07\Ex1_Pag15_07\obj\Debug\Ex1_Pag15_07.pdb
