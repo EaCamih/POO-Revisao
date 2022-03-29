@@ -1,0 +1,11 @@
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\bin\Debug\Ex1_Pag18_02.exe.config
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\bin\Debug\Ex1_Pag18_02.exe
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\bin\Debug\Ex1_Pag18_02.pdb
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\obj\Debug\Ex1_Pag18_02.csproj.AssemblyReference.cache
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\obj\Debug\Ex1_Pag18_02.csproj.SuggestedBindingRedirects.cache
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\obj\Debug\Ex1_Pag18_02.Form1.resources
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\obj\Debug\Ex1_Pag18_02.Properties.Resources.resources
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\obj\Debug\Ex1_Pag18_02.csproj.GenerateResource.cache
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\obj\Debug\Ex1_Pag18_02.csproj.CoreCompileInputs.cache
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\obj\Debug\Ex1_Pag18_02.exe
+H:\POO\AA\Ex1_Pag18_02\Ex1_Pag18_02\obj\Debug\Ex1_Pag18_02.pdb
